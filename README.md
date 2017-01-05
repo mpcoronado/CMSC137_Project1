@@ -1,12 +1,14 @@
 # CMSC137_Project1
 Name: Ma. Ara P. Coronado
 
-Compile both Server.java and Client.java in two terminals:
-javac Server.java and 
-javac Client.java
+Compile both Server.java and Client.java in two terminals
 
-Run both compiled program, server first, in the terminal:
-java Server and 
-java Client
+    javac Server.java and 
+    javac Client.java
 
-Press ctrc-c in the terminal to stop or close the server
+Run both compiled program, server first, in the terminal
+    
+    java Server and 
+    java Client
+
+Press ctrl-c in the terminal to stop or close the server
